@@ -6,14 +6,17 @@ Python final project for CS 405 (Spring 2022) at UAF.
 - What steps are you planning to take?
 - What are your deliverables?
 
-# Dataset Gathering
+# Notes & Dataset Gathering
 - [ ] Project proposal (1 page)
 - [ ] 5-10 minute presentation → problem + results
 - [ ] Final Report (5 pages)
+- [ ] Clock is set at Alaska Standard Time which is one hour earlier than Daylight Savings Time.
 
 # Further Reading
 - https://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record
 - https://www.outsideonline.com/outdoor-adventure/environment/nenana-ice-classic-alaska/
+- https://www.gi.alaska.edu/alaska-science-forum/predicting-tanana-breakup
+- https://en.wikipedia.org/wiki/Nenana_Ice_Classic
 - https://data.alaska.gov/stories/s/3fi8-3kt6
 
 # Works Cited
