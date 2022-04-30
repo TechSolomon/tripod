@@ -7,10 +7,10 @@ Python final project for CS 405 (Spring 2022) at UAF.
 - What are your deliverables?
 
 # Notes & Dataset Gathering
-- [ ] Project proposal (1 page)
-- [ ] 5-10 minute presentation → problem + results
-- [ ] Final Report (5 pages)
-- [ ] Clock is set at Alaska Standard Time which is one hour earlier than Daylight Savings Time.
+- [x] Project proposal (1 page)
+- [x] 5-10 minute presentation → problem + results
+- [x] Final Report (5 pages)
+- [x] Clock is set at Alaska Standard Time which is one hour earlier than Daylight Savings Time.
 
 # Further Reading
 - https://www.npr.org/2017/04/30/526021209/alaska-guessing-game-provides-climate-change-record
