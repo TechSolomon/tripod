@@ -4,7 +4,7 @@ asttokens==2.0.5
 astunparse==1.6.3
 backcall==0.2.0
 cachetools==5.0.0
-certifi==2021.10.8
+certifi==2022.12.7
 charset-normalizer==2.0.12
 cycler==0.11.0
 debugpy==1.6.0
